@@ -17,7 +17,7 @@ node server.js
 <li>Chrome Browser / Chromium</li>
 
 ## Step by Step
-
+<li>Clone This Project</li>
 <li>Run the command</li>
 <li>Scan your qrcode showed in terminal</li>
 <li>Try to send a message <strong>Hai</strong> or <strong>Start</strong></li>
